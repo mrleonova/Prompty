@@ -1,5 +1,6 @@
 import React, { useState, useMemo, useEffect } from 'react';
 import { Plus, Search, Edit, Copy, ClipboardCheck, Check, Trash2 } from 'lucide-react';
+<link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
 
 // --- AddNoteModal Component ---
 function AddNoteModal({ isOpen, onClose, onSave }) {
