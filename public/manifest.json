@@ -3,12 +3,12 @@
   "name": "Keep Prompt App",
   "icons": [
     {
-      "src": "KP.png",
+      "src": "kp192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "KP.png",
+      "src": "kp512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
