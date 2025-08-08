@@ -153,7 +153,7 @@ export default function App() {
         </div>
         
         {/* --- Notes Grid --- */}
-        <main className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+        <main className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6">
           {filteredNotes.length > 0 ? (
             filteredNotes.map(note => (
               <NoteCard
